@@ -271,5 +271,5 @@ const products = [
     imageUrl: EvilEyeImage,
   },
 ];
-
+console.log("hello");
 export default products;
